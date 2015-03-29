@@ -1,1 +1,1 @@
-(setq org-reveal-root "file:///js/reveal.js")
+(setq org-reveal-root "file:///./js/reveal.js")
