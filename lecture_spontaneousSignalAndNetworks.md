@@ -1,5 +1,7 @@
 ### fMRI depends on $T_{2}^{*}$ contrast
 
+TESTING
+
 <center><img vspace="20" src="imgs/hemoglobin.png" width=600></center>
 
 - An fMRI time-course is formed by the rapid acquisition of MR images that are sensitive to the "blood oxygen level dependent" (BOLD) contrast <!-- .element: class="fragment" data-fragment-index="1" -->
