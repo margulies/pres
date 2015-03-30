@@ -1,7 +1,5 @@
 ### fMRI depends on $T_{2}^{*}$ contrast
 
-TESTING
-
 <center><img vspace="20" src="imgs/hemoglobin.png" width=600></center>
 
 - An fMRI time-course is formed by the rapid acquisition of MR images that are sensitive to the "blood oxygen level dependent" (BOLD) contrast <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -9,7 +7,7 @@ TESTING
 - Deoxy-hemoglobin is paramagnetic and creates a magnetic gradient that dephases the MRI signal<!-- .element: class="fragment" data-fragment-index="3" -->
 - Oxy-hemoglobin is diamagnetic and does not affect the MRI signal<!-- .element: class="fragment" data-fragment-index="4" -->
 
-
+---
 
 ## Hemodynamic response
 
@@ -24,7 +22,7 @@ It is not know for certain how the hemodynamic response is triggered or the phsy
 3. 	The rate of extraction of oxygen from blood (and oxygen metabolism) is slower than the blood flow, resulting in a net increase in oxygenated blood, and a MR signal increase
 4. 	After neuronal activity ceases, the signal returns to baseline after a brief undershoot
 
-
+---
 
 # fMRI Data #
 
@@ -36,11 +34,13 @@ It is not know for certain how the hemodynamic response is triggered or the phsy
 - $T\_{R}$ depends on the number of slices acquired (~ 60ms per slice)
     ~ 120mm typically needed to cover entire brain, 40 slices, $T_{R} \approx 2500ms$  
 
+---
 
 # fMRI Experiment
 
 <center><figure><img vspace="20" src="imgs/fmri_exp.png"><figcaption><small>Finger tapping experiment.</small></figcaption></figure></center>
 
+---
 
 # Resting State Functional Connectivity
 
@@ -48,7 +48,7 @@ It is not know for certain how the hemodynamic response is triggered or the phsy
 
 - Intrinsic activity is "ongoing neural and metabolic activity which is not directly associated with subjects’ performance of a task" - Raichle TICS 2010
 
-
+-----
 
 # Intrinsic Connectivity Networks
 
