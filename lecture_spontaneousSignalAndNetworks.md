@@ -50,6 +50,7 @@ It is not know for certain how the hemodynamic response is triggered or the phsy
 
 ---
 
+
 # Intrinsic Connectivity Networks
 
 <center>
