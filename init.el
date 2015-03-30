@@ -1,1 +1,1 @@
-(setq org-reveal-root "file:///./js/reveal.js")
+(setq org-reveal-root "https://github.com/margulies/pres/blob/gh-pages/js/reveal.js")
