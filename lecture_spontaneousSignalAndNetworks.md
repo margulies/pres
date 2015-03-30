@@ -48,8 +48,7 @@ It is not know for certain how the hemodynamic response is triggered or the phsy
 
 - Intrinsic activity is "ongoing neural and metabolic activity which is not directly associated with subjects’ performance of a task" - Raichle TICS 2010
 
-
-		
+---
 
 # Intrinsic Connectivity Networks
 
