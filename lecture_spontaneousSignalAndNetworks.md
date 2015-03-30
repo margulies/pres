@@ -34,13 +34,13 @@ It is not know for certain how the hemodynamic response is triggered or the phsy
 - $T\_{R}$ depends on the number of slices acquired (~ 60ms per slice)
     ~ 120mm typically needed to cover entire brain, 40 slices, $T_{R} \approx 2500ms$  
 
----
+----
 
 # fMRI Experiment
 
 <center><figure><img vspace="20" src="imgs/fmri_exp.png"><figcaption><small>Finger tapping experiment.</small></figcaption></figure></center>
 
----
+----
 
 # Resting State Functional Connectivity
 
